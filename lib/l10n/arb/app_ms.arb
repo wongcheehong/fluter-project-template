@@ -1,0 +1,24 @@
+{
+  "login": "Login",
+  "email": "Email",
+  "signUp": "Sign Up",
+  "password": "Password",
+  "confirmPassword": "Confirm Password",
+  "forgotPassword": "Forgot Password?",
+  "dontHaveAnAccount": "Don't have an account?",
+  "defaultrequiredFieldErrorHint": "This field is required",
+  "requiredFieldErrorHint": "{field} is required",
+  "@requiredFieldErrorHint": {
+    "description": "Error Hint for required field",
+    "placeholders": {
+      "field": {
+        "type": "String",
+        "description": "Field name",
+        "example:": "Email"
+      }
+    }
+  },
+  "weakPasswordErrorHint": "Password should contain at least 8 characters",
+  "passwordsDoNotMatchErrorHint": "Passwords do not match",
+  "invalidEmailErrorHint": "Invalid email address"
+}
